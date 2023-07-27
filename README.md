@@ -8,7 +8,7 @@ Laravel Nova custom field that allows you to have a select drop-down or custom t
 You can install `select-or-text` using composer:
 
 ```
-composer require lynndigital/select-or-custom
+composer require bithaolee/select-or-custom
 ```
 
 Then add the following code to your resources `fields` method:
